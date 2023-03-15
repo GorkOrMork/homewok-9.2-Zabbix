@@ -28,6 +28,10 @@
 # systemctl enable zabbix-server zabbix-agent nginx php7.4-fpm
 
 
+![image](https://user-images.githubusercontent.com/109193124/225293440-5881c8ca-b823-4f60-8b01-3c001f257c12.png)
+
+![image](https://user-images.githubusercontent.com/109193124/225293532-7325149d-4b96-4179-9cd3-33edf633d3cc.png)
+
 
 ### Задание 2
 
