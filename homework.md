@@ -49,3 +49,10 @@
 
 #systemctl restart zabbix-agent
 #systemctl enable zabbix-agent
+
+![image](https://user-images.githubusercontent.com/109193124/225293807-2106b632-db1c-485e-b65d-5a4b7366f005.png)
+
+![image](https://user-images.githubusercontent.com/109193124/225293866-8c13a1b4-c0ac-401d-b00c-06cfaa4f39ac.png)
+
+![image](https://user-images.githubusercontent.com/109193124/225293951-0ceeece1-619f-4b2e-9316-5739f98e7ca9.png)
+
