@@ -27,6 +27,8 @@
 # systemctl restart zabbix-server zabbix-agent nginx php7.4-fpm
 # systemctl enable zabbix-server zabbix-agent nginx php7.4-fpm
 
+
+
 ### Задание 2
 
 1 Установка репозитория
